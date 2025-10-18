@@ -10,12 +10,12 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    },
     {
         "device_id": "31a1f055d197a1b2",
-        "key": "Jahurkey11",
-        "expirydate": "03-11-2025",
-        "Allowoffline": true
-    },
+        "key": "mykey1122",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    }
     
 ]
